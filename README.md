@@ -3,10 +3,9 @@
 * Read_Me file included in the zip folder.
 
 This project reflects a creation of a database and application for managing a small university using Microsoft SQL Server Management Sudio.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+-- About This Project:
 
-About This Project:
-
-This project will reflect a database and application for managing a small university.
 With the help of this database system, the management of the university will be able to keep track of the different schools in the university, the courses, the students, professors, lecturers, counselors, staff, buildings and library.
 The database will help the university to keep track on how many students signed and to which school, also how many more years they have before graduating. That will help the university to keep track of the cash flow.
 
