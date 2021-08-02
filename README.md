@@ -1,6 +1,6 @@
 # Project 1 - Database Creation Using Microsoft SQL Server Management Sudio.
 
-* Read_Me file included in the zip folder.
+
 
 This project reflects a creation of a database and application for managing a small university using Microsoft SQL Server Management Sudio.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
